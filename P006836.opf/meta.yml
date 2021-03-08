@@ -6,4 +6,29 @@ source_metadata:
 
     '
   author: ''
-  volumes: {}
+  volumes:
+    76c4d2030f7048e49842488acacc17de:
+      image_group_id: I2PD20585
+      title: ''
+      volume_number: 1
+      total_pages: 440
+    1f15b0a97d4247118ce2d095a5ef7477:
+      image_group_id: I2PD20586
+      title: ''
+      volume_number: 2
+      total_pages: 418
+    7eab89123f7a4c91b7401ac67cb4ff16:
+      image_group_id: I2PD20587
+      title: ''
+      volume_number: 3
+      total_pages: 532
+    899905bf2e8b4b96a8277b672f80abd4:
+      image_group_id: I2PD20588
+      title: ''
+      volume_number: 4
+      total_pages: 562
+    867ca603be6f4a01b4c58468e9369e29:
+      image_group_id: I2PD20589
+      title: ''
+      volume_number: 5
+      total_pages: 470
